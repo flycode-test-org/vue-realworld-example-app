@@ -56,7 +56,7 @@
               class="btn btn-lg pull-xs-right btn-primary"
               type="submit"
             >
-              Publish Article
+             Publish Article nice  Publish Article
             </button>
           </form>
         </div>
