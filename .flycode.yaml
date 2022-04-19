@@ -6,10 +6,11 @@ environments:
     mode: pull-request
     
 apps:
-  - name: vue-realworld-example-app
+  - name: Vue Hardcoded Example App
     path: ""
     text-resources:
       - path: "*.vue"
         format: vue-hardcoded
-
-
+        
+        
+        
