@@ -7,7 +7,7 @@
       <span class="attribution">
         An interactive learning project from
         <a rel="noopener noreferrer" target="blank" href="https://thinkster.io"
-          >Thinkster Blinkster</a
+          >Thinkster Blinkster Rinkster</a
         >. Code &amp; design licensed under MIT.
       </span>
     </div>
