@@ -36,7 +36,7 @@
             <router-link :to="{ name: 'login' }">Sign In!</router-link>
             or
             <router-link :to="{ name: 'register' }">Sign Up</router-link>
-            to add comments on this article.
+            to add comments on this posts.
           </p>
           <RwvComment
             v-for="(comment, index) in comments"
