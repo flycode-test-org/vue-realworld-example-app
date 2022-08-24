@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div v-if="isLoading" class="article-preview">Loading posts for Ashhad...</div>
+    <div v-if="isLoading" class="article-preview">Loading posts</div>
     <div v-else>
       <div v-if="articles.length === 0" class="article-preview">
         No articles are here... yet...
