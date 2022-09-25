@@ -6,7 +6,7 @@
     </router-link>
     <span>&nbsp;&nbsp;</span>
     <button class="btn btn-outline-danger btn-sm" @click="deleteArticle">
-      <i class="ion-trash-a"></i> <span>Delete posts!</span>
+      <i class="ion-trash-a"></i> <span>Delete posts</span>
     </button>
   </span>
   <!-- Used in ArticleView when not author -->
